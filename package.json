@@ -1,0 +1,16 @@
+{
+  "name": "smart-knowledge-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SmartKnowledgeMap Android wrapper",
+  "scripts": {
+    "build": "node -e \"console.log('Static HTML app; no web compilation required')\""
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/android": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
